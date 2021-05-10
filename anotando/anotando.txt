@@ -1,0 +1,28 @@
+1>No index.html> temos um menu administrativo, com um formulario que tem usuario e senha, uma opoção de "manter conectado".
+e um botao do tipo submit que tem como objetivo fazer o loguin da pagina.
+
+
+2> no menu_painel.html, temos um menu laterial que respeita tambem os limites da tela ou seja é responsivo, neste menu temos tambem um javascript onde você clica em "grupos de usuarios" e aparece outras opçoes, como por exemplo,usuarios, cadastrar novo e etc.
+
+3> foi usado o bootstrap um codigo pronto que usa vários containers, linhas e colunas para arranjar e alinhar conteúdo. Ele é feito com flexbox e é, totalmente, responsivo. ( ou seja este projeto vai se adaptar aos limites da tela.)
+
+
+NO CSS................................................................
+
+foi separado por seções :
+
+Da classe login ate desenvolvimento faz parte do index.html.......
+
+seção 1 ao 5 corresponde ao menu-lateral....
+
+
+
+OBS:ESTE É UM PROJETO PROFISSIONAL / Favorecendo a empresa  "Albreis Network"/apenas uma pagina estatica
+
+o arquivo psd encontra-se junto a pasta imagens.
+
+
+Francine Hollweg : Programador junior 
+
+
+

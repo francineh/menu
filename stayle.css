@@ -1,0 +1,91 @@
+/*INDEX.HTML*/
+
+.login{ margin-top: 190px;}
+
+.painel{margin-bottom: 45px;padding-top:30px;font-size: 36px;font-family: verdana;float: left;padding-left: 70px;}
+
+.h3{padding-top: 10px;}
+
+.formulario{width:634px;height:440px;background-image:url("imagens/quadrado.png"); text-align: center; margin-right: auto;margin-left: auto;padding: }
+
+
+
+.edita_input{margin-bottom: 47px;width: 496px;height: 56px;padding:20px;font-size: 18px;font-family: verdana; }
+
+
+label {
+  cursor: pointer;
+}
+label input[type="checkbox"]{
+  display:none;
+}
+
+label input[type="checkbox"] + div {
+  display:inline-block;
+  width:16px;
+  height:16px;
+  background: #efefef;
+  border:1px solid #ccc;
+}
+
+label input[type="checkbox"]:checked + div {
+  background: #333;
+}
+
+#checkbox{padding-left: }
+
+.check{float: left;margin-left:67px!important; border: none;font-family: verdana;font-size: 14px;}
+
+
+.entrar{float: right;margin-right:69px;border: none;background-color: #000;color: #fff;font-size: 36px;font-family: verdana;
+width:200px;height:54px;  }
+
+
+.final{background-color: #000;}
+
+
+.Desenvolvido{color: #fff;font-family: verdana;font-size:18px;width:100%;height: 54px;margin-top: 230px;padding: 20px;text-align: right;margin: 0; }
+
+
+
+/* SEGUNDA PAGINA PAINEL_MENU */
+
+
+
+.secao1{overflow: hidden;background-color:#ffc000;width: 300px;height: 215px; }
+
+.painel{color:#fff; float: left!important;padding: 0;margin-left: 26px;margin-top: 26px;margin-bottom: 0;}
+
+.botao{padding-left: 30px; margin-top: 35px;float: right;margin-right: 25px;}
+
+.linkin{margin-top:15px;float: left;margin-left: 13px;}
+
+.linkin a{color: #000;font-size: 14px;font-family: verdana;display: block;padding: 0;}
+
+/* seçao 2 */
+
+.secao2{background-color:#ffc000;width: 300px;height: 43px;}
+
+.grupo{text-align: center;margin-top: 3px;font-family: verdana;font-size:18px;padding-top: 15px;color: #fff; margin-left: 20px;}
+
+.seta{float: right;}
+.setando{float: right;}
+
+
+/* seçao 3 */
+
+.secao3{background-color: #fff;width: 300px;}
+
+.menu{font-size: 14px;font-family: verdana;text-align: center;margin: 0;padding: 0;display: none;}
+.menu li{display: inline-block;padding-bottom:15px;padding-top: 15px;border-bottom: 3px solid #d2d2d2;border-right: 3px solid #d2d2d2;width: 100% ;height: 43px;margin:0; }
+
+/* seçao 4*/
+
+.secao4{background-color:#ffc000;width: 300px;height: 43px;text-align: center; }
+.secao40{background-color:#ffc000;width: 300px;height: 43px;text-align: center;margin-bottom: 3px;}
+
+/* seçao 5*/
+
+
+.secao5{background-color:#ffc000;height: 500px;width: 300px}
+
